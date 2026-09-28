@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "google-ads": {
+      "type": "http",
+      "url": "https://api.markifact.com/mcp/google-ads",
+      "auth": {
+        "type": "oauth"
+      }
+    }
+  }
+}

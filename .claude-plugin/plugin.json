@@ -1,0 +1,29 @@
+{
+  "name": "google-ads",
+  "displayName": "Google Ads MCP by Markifact",
+  "version": "1.0.0",
+  "icon": "./assets/icon.png",
+  "description": "Google Ads MCP server: reports, search terms, negatives, budgets, bids, campaign creation and Performance Max, with approval on every write. Hosted, OAuth, no local install.",
+  "author": {
+    "name": "Markifact",
+    "email": "contact@markifact.com",
+    "url": "https://www.markifact.com"
+  },
+  "homepage": "https://www.markifact.com/google-ads-mcp",
+  "privacyPolicyUrl": "https://www.markifact.com/privacy-policy",
+  "repository": "https://github.com/markifact/google-ads-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "claude-code",
+    "claude-code-plugin",
+    "google-ads",
+    "google-ads-api",
+    "ppc",
+    "sem",
+    "pmax",
+    "keyword-planner",
+    "mcp",
+    "marketing"
+  ]
+}

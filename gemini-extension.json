@@ -1,0 +1,20 @@
+{
+  "name": "google-ads",
+  "version": "1.0.0",
+  "description": "Google Ads MCP server: reports, search terms, negatives, budgets, bids, campaign creation and Performance Max, with approval on every write. Hosted, OAuth, no local install.",
+  "mcpServers": {
+    "google-ads": {
+      "url": "https://api.markifact.com/mcp/google-ads",
+      "type": "http",
+      "timeout": 120000,
+      "oauth": {
+        "authorizationUrl": "https://www.markifact.com/oauth/authorize",
+        "tokenUrl": "https://api.markifact.com/oauth/token",
+        "registrationUrl": "https://www.markifact.com/oauth/register",
+        "scopes": [
+          "mcp"
+        ]
+      }
+    }
+  }
+}
